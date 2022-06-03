@@ -41,11 +41,12 @@ function God() {
 
 En plus, comme j'ai appris par passion avec **mon temps** et **mes économies** 💳, je sais par avance que pour tous les projets professionnels 
 je suis **surmotivé** à l'idée de **créer** le projet d'une personne et de **l'aider**.<br/>
-~~Chaque jour~~, je renforce mes connaissances pour toujours aller plus loin et avancer vers mes objectifs.
+Chaque jour, je renforce mes connaissances pour toujours aller plus loin et avancer vers mes objectifs.
+Comme je dis souvent: **Rien n'est impossible, il suffit de s'en donner les moyens.**
 ```js
 function GodDetectBullshit(isBullshit) {
   if(isBullshit){
-    return console.log("5.5 jours sur 7");
+    return console.log("6.5 jours sur 7");
   }
  return console.log(isBullshit);
 }
